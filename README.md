@@ -1,3 +1,3 @@
 # Alura-Git
 
-*** Aprendendo Control de versão do Git con Alura
+> Aprendendo Control de versão do Git com Alura
